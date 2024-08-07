@@ -1,8 +1,8 @@
 # 🚀 Backup Jenkins data and configurations to external disk
 
 ---
-
-Before starting, ensure you have basic understanding of Linux and Jenkins plugins.
+> [!NOTE]
+> Before starting, ensure you have basic understanding of Linux and Jenkins plugins.
 
 ## 🎤 Introduction
 
