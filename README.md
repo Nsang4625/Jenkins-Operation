@@ -6,7 +6,8 @@
 
 [3. Jenkins user management](./3_User_Management/index.md)
 
-4. Shared Library (ongoing)
+[4. Shared Library](./4_Shared_Libraries/index.md)
+
 5. Integration with Vault (ongoing)
 6. Integration with Jira (ongoing)
 7. Integration with Slack (ongoing)
