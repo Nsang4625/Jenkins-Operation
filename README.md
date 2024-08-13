@@ -8,7 +8,8 @@
 
 [4. Shared Library](./4_Shared_Libraries/index.md)
 
-5. Integration with Vault (ongoing)
+[5. Integration with Vault](./5_Jenkins_Vault/)
+
 6. Integration with Jira (ongoing)
 7. Integration with Slack (ongoing)
 8. Integration with CloudBees(Feature flagment) (ongoing)
